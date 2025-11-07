@@ -13,7 +13,8 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  pusher_beams_platform_interface: ^1.1.1
+  pusher_beams_platform_interface:
+    path: ../pusher_beams_platform_interface
   js: ^0.6.3
   uuid: ^3.0.5
 
@@ -67,3 +68,4 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages
+
